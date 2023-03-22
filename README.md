@@ -1,16 +1,7 @@
 # mit_post
 
-A new Flutter project.
+This was the makeover I did to the homepage of the old MIT POST APP as part of the recruitment task phase.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/67331016/226855566-4bc90e26-dbb0-4b4d-a17f-902066d1bdfc.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
